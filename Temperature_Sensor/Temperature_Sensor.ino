@@ -5,13 +5,17 @@ IDE version: 1.8.19
 
 /* 
 Board: ATtiny85
-Clock: Internal 16MHz
+Clock: Internal 8MHz
 
 Flash using Arduino as ISP:
 https://gist.github.com/MarcosYonamine963/b8ca19667ada640c18193f8fc0057c47
 
 Author: Marcos Yonamine
 https://github.com/MarcosYonamine963/ATtiny-DS18B20
+
+Dependencies:
+OneWire.h (Paul Stoffregen)
+DallasTemperature.h (Miles Burton)
 
 v1.0.0
 05/jan/2024
