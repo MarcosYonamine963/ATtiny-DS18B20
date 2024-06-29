@@ -28,3 +28,7 @@ Connect TTL converter TX to ATtiny Rx (see sketch defines).
 
 [DS18B20 datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf)
 
+## How to flash ATtiny
+
+See my gist [ATtiny.md](https://gist.github.com/MarcosYonamine963/b8ca19667ada640c18193f8fc0057c47)
+
